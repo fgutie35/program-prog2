@@ -12,7 +12,7 @@ function addItemFunc(){
 
     }
     else {
-        alert("Please put the name")
+        alert("Please type in a name onto the First Name field")
     }
 
 }
