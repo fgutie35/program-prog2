@@ -1,0 +1,21 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.content{
+    background: lightblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.formItems{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.toAdd{
+    background: rgb(186, 238, 186);
+}
